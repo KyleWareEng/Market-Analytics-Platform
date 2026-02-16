@@ -21,7 +21,7 @@ A professional-grade Python application for ingesting, analyzing, and visualizin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/market-analytics-platform.git
+   git clone https://github.com/KyleWareEng/Market-Analytics-Platform.git
    cd market-analytics-platform
    ```
 
