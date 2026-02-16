@@ -67,11 +67,13 @@ Switch tickers and timeframes instantly.
 
 ## Technical Architecture
 
-```
+
 The application follows a clean **four-layer architecture** with clear separation of concerns:
 
-![Technical Architecture](images/architecture_diagram.png)
-```
+<p align="center">
+  <img src="images/architecture_diagram.png" alt="Technical Architecture" width="500">
+</p>
+
 
 ### Design Principles
 
